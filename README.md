@@ -1,2 +1,2 @@
 # Projeto_C
-Esse é um sistema desenvolvido na linguagem C
+Esse é um sistema de notas desenvolvido na linguagem C possuindo CRUD.
